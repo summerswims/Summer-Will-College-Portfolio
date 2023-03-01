@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @summerswims
-- 👀 I’m interested in data science
-- 🌱 I’m currently learning statistical linear models
-- 💞️ I’m looking to collaborate on data projects
-- 📫 How to reach me: (309)532-0699
+Hello! I am a senior at Pomona College studying mathematics, with a focus on statistics. I have a passion for analytics and I aspire to be a pioneer in digital healthcare efficiency. 
+
+My primary email is summerwill2023@gmail.com and my phone number is (309)532-0699.
 
 <!---
 summerswims/summerswims is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
