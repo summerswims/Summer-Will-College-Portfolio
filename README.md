@@ -1,6 +1,6 @@
 Hello! My name is Summer Will. I am a senior at Pomona College studying mathematics, with a focus on statistics. I have a passion for analytics and I aspire to be a pioneer in digital healthcare efficiency. 
 
-This repo is a compilation of all my data analysis projects and mathematical work as well as a few non-mathematical papers. 
+The summerswims repo is a compilation of all my data analysis projects and mathematical work as well as a few non-mathematical papers. 
 
 My primary email is summerwill2023@gmail.com and my phone number is (309)532-0699.
 
