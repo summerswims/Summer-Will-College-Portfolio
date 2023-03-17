@@ -9,7 +9,7 @@ Summer-Will-College-Portfolio is a collection of my life's work in mathematics, 
 
 (data science)
 - machine learning
-- data analysis projects
+- end-to-end data analysis projects
 
 (writing)
 - academic writing
